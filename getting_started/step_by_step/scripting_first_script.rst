@@ -55,7 +55,7 @@ Your Scene tab should now only have a Sprite2D node.
 
 A Sprite2D node needs a texture to display. In the Inspector on the right, you
 can see that the Texture property says "[empty]". To display the Godot icon,
-click and drag the file ``icon.png`` from the FileSystem dock onto the Texture
+click and drag the file ``icon.svg`` from the FileSystem dock onto the Texture
 slot.
 
 .. image:: img/scripting_first_script_setting_texture.png
